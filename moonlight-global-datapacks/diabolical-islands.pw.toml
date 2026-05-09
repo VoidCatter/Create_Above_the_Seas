@@ -1,0 +1,13 @@
+name = "Diabolical Islands"
+filename = "Diabolical_Islands_1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t9gPp1Gu/versions/BV7GWyEF/Diabolical_Islands_1.0.0.zip"
+hash-format = "sha512"
+hash = "d1d16cf83c473b9eac3592e76c93bbfd275d148501f05cf573294b4fec3a92d8d71d81aaa70b5cee059ed04e8ea0cf4fca8bb226673a4b5913c2fccfd060b362"
+
+[update]
+[update.modrinth]
+mod-id = "t9gPp1Gu"
+version = "BV7GWyEF"
