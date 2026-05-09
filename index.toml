@@ -11,6 +11,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -76,8 +86,18 @@ hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -126,6 +146,11 @@ hash = "c52b32923563ae28647a9429c5acb66c74d76c6f6ae4ffa8d08fc75626cc0115"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "fe534103fe33ec364646a17fd9a597fa7a6003d4a4426a4305477770ce32192f"
 metafile = true
@@ -136,13 +161,28 @@ hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "60d0f719a2fc1045e865fc38c0c6d04a733d0ce2e84173be86e999399bcc162d"
 metafile = true
 
 [[files]]
@@ -161,6 +201,11 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
 file = "mods/particle-interactions.pw.toml"
 hash = "12fa04dfc69d95c522b43e3d5a3e0d2439c332f51d87aea9c214631dd607a7ce"
 metafile = true
@@ -176,8 +221,23 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "1d185d886430e308ae00528dd1b0dd7800cf42e4fdae284663df48f2463524f7"
+metafile = true
+
+[[files]]
 file = "mods/reliquified-artifacts.pw.toml"
 hash = "5eed555d96dcdf16f9aa088d4e2656f0254e422a2bdb0422b20fde7c05c34df5"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
@@ -186,8 +246,33 @@ hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
@@ -203,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "e58928e10c503de8a82e8de066d7f17e96a1e67d7bc452386dac8695a48874fc"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
@@ -272,37 +362,3 @@ hash = "5faf7489af9462052022470985ebee1f8f2c8e68c20fe0e85dbe0900daec51dd"
 [[files]]
 file = "overrides/kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
-
-[[files]]
-file = "overrides/moonlight-global-datapacks/.index/create-simulated-end-sea-everywhere.pw.toml"
-hash = "c38e37bdb2a71dcf54b759065671a59e6b9e74a3299fe6365895acbe488b7751"
-metafile = true
-
-[[files]]
-file = "overrides/moonlight-global-datapacks/.index/terralith-restoned.pw.toml"
-hash = "8f846096ec471903ccf408db2e00e4443dc726e20df74211b9a506939cb247b6"
-metafile = true
-
-[[files]]
-file = "overrides/moonlight-global-datapacks/Diabolical_Islands_1.0.0.zip"
-hash = "ed3bdbfb1dac92eea7441af6a4b9d8d668314d1a9b9efebefd23ddedafa9b10f"
-
-[[files]]
-file = "overrides/moonlight-global-datapacks/End-Sea-Everywhere.zip"
-hash = "8b608c3e549b3a983c67605d3ac9bb4a745c4419ff960fb16566c64649bca95d"
-
-[[files]]
-file = "overrides/moonlight-global-datapacks/Nullscape_1.21_v1.2.14.zip"
-hash = "47f3ff8ae51182b4c8aee155091d0a261f8edb67e727a9898c7ccb5c3450f274"
-
-[[files]]
-file = "overrides/moonlight-global-datapacks/Terralith_1.21_v2.5.8.zip"
-hash = "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"
-
-[[files]]
-file = "overrides/moonlight-global-datapacks/Terralith_ReStoned_v1.3.1.zip"
-hash = "83ba3e0fc9c2e7fbbe7d2a61970fe9086c6df7afdf871bd15bbe3dea5c17727f"
-
-[[files]]
-file = "overrides/moonlight-global-datapacks/datapack.zip"
-hash = "a0b9c758f59dfc5eb49d1314c0b896886ee461b042e645f198334e99d09622de"
