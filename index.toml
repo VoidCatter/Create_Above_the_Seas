@@ -1,0 +1,308 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
+hash = "83d8e82f5f7d56ce8e09f131ffe04b1b4733b970c8a47b79546e5b2a6c3b7167"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "2f6a345c8124dd87b60c8ebbbaa35d9efa27c2d1947357b3247ab98fae9db210"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
+metafile = true
+
+[[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "9659152903c07ccc018e00e09ffe021d78da8be78a83a19ffe269c251e0cd191"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "eac79c4cd5b44fbe1f89ca6ce664eca5de741ce17ada0a3c0eafd1839ea0c7c3"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "1045ba1bb46eb77e2fea9be04268c2c73c161b94f3bceddbd4c3dbff1c0bf555"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
+metafile = true
+
+[[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "cfdef44464ccf6c3a9b0fa7a48bbbfa40049765c01c3aaf225fddd167cd5eeec"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "c52b32923563ae28647a9429c5acb66c74d76c6f6ae4ffa8d08fc75626cc0115"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "fe534103fe33ec364646a17fd9a597fa7a6003d4a4426a4305477770ce32192f"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/particle-interactions.pw.toml"
+hash = "12fa04dfc69d95c522b43e3d5a3e0d2439c332f51d87aea9c214631dd607a7ce"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "5eed555d96dcdf16f9aa088d4e2656f0254e422a2bdb0422b20fde7c05c34df5"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "dc998dc760e44edef3c2f787affcfb3d15ae64add531bb1a97f29ee25560ce65"
+metafile = true
+
+[[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "e58928e10c503de8a82e8de066d7f17e96a1e67d7bc452386dac8695a48874fc"
+metafile = true
+
+[[files]]
+file = "overrides/config/corpse-server.toml"
+hash = "e1c4fc0d90a81956153dc37790c3e938b8e54f6c05aab7d41767c88412568f6f"
+
+[[files]]
+file = "overrides/config/create-client.toml"
+hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
+
+[[files]]
+file = "overrides/config/spyglass-improvements/settings.json"
+hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
+
+[[files]]
+file = "overrides/config/structurify.json"
+hash = "c317b699b92442c934a828f457e8f4d59075b574fcf7e3a5e35e38edd0ca3c04"
+
+[[files]]
+file = "overrides/kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "overrides/kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "overrides/kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "overrides/kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "overrides/kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "overrides/kubejs/config/web_server.json"
+hash = "dd01aa867b71ca2fb094f6271712ef2ed627ba678209e0228dd4f60fd58f6276"
+
+[[files]]
+file = "overrides/kubejs/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "561973321d8abb55bb8f10f12eef7850c590f773066fe9915505ee28581641eb"
+
+[[files]]
+file = "overrides/kubejs/server_scripts/accessoryRarity.js"
+hash = "043b15eaa9a35539086b98dda61850ed10ad75a924f9b56ccf9c846be13ff9eb"
+
+[[files]]
+file = "overrides/kubejs/server_scripts/accessoryTags.js"
+hash = "31649ff4ec6c079734e2d5eaa67beaf5d80a89087030ee4ffb65ed25d862f675"
+
+[[files]]
+file = "overrides/kubejs/server_scripts/noStarterItems.js"
+hash = "70f75a043944e478bc86088ae979065efc31ca32e155c15b26d89f5186ca50f5"
+
+[[files]]
+file = "overrides/kubejs/server_scripts/removeRecipes.js"
+hash = "1dcf9fd1413ce5b7c06badadb1be07cdfde06b240b67a7875c163479ab43dd82"
+
+[[files]]
+file = "overrides/kubejs/server_scripts/replaceElytra.js"
+hash = "5faf7489af9462052022470985ebee1f8f2c8e68c20fe0e85dbe0900daec51dd"
+
+[[files]]
+file = "overrides/kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "overrides/moonlight-global-datapacks/.index/create-simulated-end-sea-everywhere.pw.toml"
+hash = "c38e37bdb2a71dcf54b759065671a59e6b9e74a3299fe6365895acbe488b7751"
+metafile = true
+
+[[files]]
+file = "overrides/moonlight-global-datapacks/.index/terralith-restoned.pw.toml"
+hash = "8f846096ec471903ccf408db2e00e4443dc726e20df74211b9a506939cb247b6"
+metafile = true
+
+[[files]]
+file = "overrides/moonlight-global-datapacks/Diabolical_Islands_1.0.0.zip"
+hash = "ed3bdbfb1dac92eea7441af6a4b9d8d668314d1a9b9efebefd23ddedafa9b10f"
+
+[[files]]
+file = "overrides/moonlight-global-datapacks/End-Sea-Everywhere.zip"
+hash = "8b608c3e549b3a983c67605d3ac9bb4a745c4419ff960fb16566c64649bca95d"
+
+[[files]]
+file = "overrides/moonlight-global-datapacks/Nullscape_1.21_v1.2.14.zip"
+hash = "47f3ff8ae51182b4c8aee155091d0a261f8edb67e727a9898c7ccb5c3450f274"
+
+[[files]]
+file = "overrides/moonlight-global-datapacks/Terralith_1.21_v2.5.8.zip"
+hash = "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"
+
+[[files]]
+file = "overrides/moonlight-global-datapacks/Terralith_ReStoned_v1.3.1.zip"
+hash = "83ba3e0fc9c2e7fbbe7d2a61970fe9086c6df7afdf871bd15bbe3dea5c17727f"
+
+[[files]]
+file = "overrides/moonlight-global-datapacks/datapack.zip"
+hash = "a0b9c758f59dfc5eb49d1314c0b896886ee461b042e645f198334e99d09622de"

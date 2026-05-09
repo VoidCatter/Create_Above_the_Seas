@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"silentgear:elytra",
+		"silentgear:binding",
+		"silentgear:elytra_wings",
+		"silentgear:elytra_template",
+		"silentgear:elytra_blueprint",
+		"silentgear:guide_book",
+		"silentgear:crude_knife",
+		"silentgear:crude_hammer",
+		"silentgear:crude_alloy",
+		"silentgear:crude_tool_parts"
+	]
+}
