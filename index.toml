@@ -205,12 +205,17 @@ metafile = true
 
 [[files]]
 file = "mods/formations-nether.pw.toml"
-hash = "cfdef44464ccf6c3a9b0fa7a48bbbfa40049765c01c3aaf225fddd167cd5eeec"
+hash = "1c4b3654edf0774463e11264e96d3622d34a4f3af9aa2971206182ffda6a3cfa"
 metafile = true
 
 [[files]]
 file = "mods/formations-overworld.pw.toml"
-hash = "c52b32923563ae28647a9429c5acb66c74d76c6f6ae4ffa8d08fc75626cc0115"
+hash = "84966656a213c000c6e503c498e86beb6c9d26d8ecd998f575718fc6c6d159cd"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "5ef9f8145b84ad59bc9cd7759d5a05bd0345a3266df8a290f2bdcbaaab18c6bb"
 metafile = true
 
 [[files]]
@@ -255,12 +260,22 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
+hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "5dcc7ea97907da79f56a3e2568763be3c294acaa9dcc7180f2b6e31cad55e363"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "2f14e94f4642986d2a5ac68cd623737e4b62b53517c9c1b164ce7b516ac3c671"
 metafile = true
 
 [[files]]
@@ -375,5 +390,5 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/nullscape.pw.toml"
-hash = "58415611c5034de28c917f87669451c7483fd06fdbe3713fee39a158933a4c7e"
+hash = "e1e276f02307a86e5b73eab681f02e7310dd8c9ecab960f2fbcb3c26b159f411"
 metafile = true
