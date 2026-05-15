@@ -9,12 +9,16 @@ file = "config/create-client.toml"
 hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
 
 [[files]]
+file = "config/lootr-common.toml"
+hash = "75aed1943f44632d23b10abd809540d254fb7cb9f80c00e79c057ed1984f880e"
+
+[[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
 
 [[files]]
 file = "config/structurify.json"
-hash = "c317b699b92442c934a828f457e8f4d59075b574fcf7e3a5e35e38edd0ca3c04"
+hash = "7b78cb0c69fc92f3da91a3b0bf7a6f54867ad0b051d642dafe8930d5400fe9d6"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -266,11 +270,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
-metafile = true
-
-[[files]]
-file = "mods/map-atlases-forge.pw.toml"
-hash = "5dcc7ea97907da79f56a3e2568763be3c294acaa9dcc7180f2b6e31cad55e363"
 metafile = true
 
 [[files]]
