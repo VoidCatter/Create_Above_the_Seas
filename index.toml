@@ -66,7 +66,7 @@ hash = "1dcf9fd1413ce5b7c06badadb1be07cdfde06b240b67a7875c163479ab43dd82"
 
 [[files]]
 file = "kubejs/server_scripts/replaceElytra.js"
-hash = "5faf7489af9462052022470985ebee1f8f2c8e68c20fe0e85dbe0900daec51dd"
+hash = "ab68bf3397b8d769b350a086ce0f1660775acd423a8073e793b9e9c9d69dfec9"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
