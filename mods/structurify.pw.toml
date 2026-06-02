@@ -1,13 +1,13 @@
 name = "Structurify"
-filename = "structurify-neoforge-2.0.22+mc1.21.1.jar"
+filename = "structurify-neoforge-2.0.25+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/YmkYhsGj/structurify-neoforge-2.0.22%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/nKCdwUbt/structurify-neoforge-2.0.25%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "f48f4d1a025af12e288b0e3116ff08256f138522003393831298544cc3d175f88b0a93427bcb1985e9dcaea8c87fc331a68b38540131f53a7a83679a347f9776"
+hash = "c7ef6c7a4305e19c7e8615c607333d86b801ef23354a6c99496cce1d6f8a315355caa1e99de0bc198a2a146d996ef134df4b5f14818a408519ba447066747679"
 
 [update]
 [update.modrinth]
 mod-id = "yz7AM2zx"
-version = "YmkYhsGj"
+version = "nKCdwUbt"

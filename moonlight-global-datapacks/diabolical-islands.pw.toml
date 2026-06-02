@@ -1,6 +1,7 @@
 name = "Diabolical Islands"
 filename = "Diabolical_Islands_1.0.0.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/t9gPp1Gu/versions/BV7GWyEF/Diabolical_Islands_1.0.0.zip"
