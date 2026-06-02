@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "23ff7d629047bb69ff0c09a4cc71465f5e29ee615ea9f0b483a319b30b7187b4"
+
+[[files]]
 file = "config/corpse-server.toml"
 hash = "e1c4fc0d90a81956153dc37790c3e938b8e54f6c05aab7d41767c88412568f6f"
 
@@ -15,6 +19,10 @@ hash = "75aed1943f44632d23b10abd809540d254fb7cb9f80c00e79c057ed1984f880e"
 [[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
+
+[[files]]
+file = "config/ssrd-common.toml"
+hash = "1f9ef7c974c6d97b5b79916eddcf3002318965068f58fdbdbce8ecf9c640abc4"
 
 [[files]]
 file = "config/structurify.json"
@@ -79,6 +87,11 @@ hash = "ab68bf3397b8d769b350a086ce0f1660775acd423a8073e793b9e9c9d69dfec9"
 [[files]]
 file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "mods/analog-audio.pw.toml"
+hash = "7a002da9523d1fb204454508b25d7f9de93dbf752660034a61715d0b4614198d"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -368,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "8f612f53fb6bf69e22dbb3cc846d2b8a8d9955272b72a210942dd022bf276824"
 metafile = true
 
 [[files]]
