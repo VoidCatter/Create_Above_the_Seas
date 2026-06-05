@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "23ff7d629047bb69ff0c09a4cc71465f5e29ee615ea9f0b483a319b30b7187b4"
+hash = "913f0fc5ec8dff47bac0ddf4a628c30c57c175e2ea183c7e781e4c975f4a653b"
 
 [[files]]
 file = "config/corpse-server.toml"
@@ -87,11 +87,6 @@ hash = "ab68bf3397b8d769b350a086ce0f1660775acd423a8073e793b9e9c9d69dfec9"
 [[files]]
 file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
-
-[[files]]
-file = "mods/analog-audio.pw.toml"
-hash = "7a002da9523d1fb204454508b25d7f9de93dbf752660034a61715d0b4614198d"
-metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"

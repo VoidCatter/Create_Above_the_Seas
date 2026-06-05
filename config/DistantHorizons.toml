@@ -658,16 +658,16 @@ _version = 4
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
-				verticalQuality = "HIGH"
+				verticalQuality = "LOW"
 				#
 				# What blocks shouldn't be rendered as LODs? 
 				# 
 				# NONE: Represent all blocks in the LODs 
 				# NON_COLLIDING: Only represent solid blocks in the LODs (tall grass, torches, etc. won't count for a LOD's height)
-				blocksToIgnore = "NONE"
+				blocksToIgnore = "NON_COLLIDING"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 96
+				lodChunkRenderDistanceRadius = 32
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
@@ -680,19 +680,19 @@ _version = 4
 				# 
 				# True: a red flower will tint the grass below it red. 
 				# False: skipped blocks will not change color of surface below them.
-				tintWithAvoidedBlocks = true
+				tintWithAvoidedBlocks = false
 				#
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "MEDIUM"
+				horizontalQuality = "LOW"
 				#
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
 				# FAKE: LODs will be opaque, but shaded to match the blocks underneath. 
 				# DISABLED: LODs will be opaque.
-				transparency = "COMPLETE"
+				transparency = "DISABLED"
 				#
 				# This is the same as vanilla Biome Blending settings for Lod area. 
 				#     Note that anything other than '0' will greatly effect Lod building time. 
@@ -707,7 +707,7 @@ _version = 4
 				# NONE: Fastest, there will be a pronounced border between DH and MC rendering. 
 				# SINGLE_PASS: Fades after MC's transparent pass, opaque blocks underwater won't be faded. 
 				# DOUBLE_PASS: Slowest, fades after both MC's opaque and transparent passes, provides the smoothest transition.
-				vanillaFadeMode = "DOUBLE_PASS"
+				vanillaFadeMode = "SINGLE_PASS"
 
 			[client.advanced.graphics.fog]
 				#
