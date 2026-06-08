@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "a76b3b07c25a8ea8c2797328d0d531f64dfbce5a662f343f833bd9857285286f"
+hash = "f7b20a7e5ae4678c0e74e7e6945f48c402636f8887d65b0cdab0357dd5c08856"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
+hash = "23ae6070690635c357040e1361922474ca25a1b0cc621bd9204070ec6c74acaf"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
-hash = "97d6e833cc930ad0a4ca5f33ff9dd58a2c890d310faa5d0c5f88085731566df6"
+hash = "af3e9bfe6f9322502910782746e67774ae57ce6103356a14bdd08aeaff1d5fc1"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+hash = "96926b3c536668a886c6895565d8cbf06ec187c1efd4f0212ba12f8f97f7559e"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "8f612f53fb6bf69e22dbb3cc846d2b8a8d9955272b72a210942dd022bf276824"
+hash = "1a8c3d6ea5da99e223a66c521362cc4c5d39c6f3987981fc3b47c50b39631015"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
+hash = "148c5d14dfeca914d20ceea4defa9660fe588e6fc22cea23cab745504d4b2453"
 metafile = true
 
 [[files]]
