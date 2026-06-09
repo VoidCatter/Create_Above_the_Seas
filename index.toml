@@ -13,6 +13,10 @@ file = "config/create-client.toml"
 hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
 
 [[files]]
+file = "config/inventory_particles.json5"
+hash = "8518309c72754aeb08af9093d742a855ba5eb4229a5dc112985295a236070186"
+
+[[files]]
 file = "config/lootr-common.toml"
 hash = "75aed1943f44632d23b10abd809540d254fb7cb9f80c00e79c057ed1984f880e"
 
@@ -249,6 +253,11 @@ hash = "ec8432e5a8dcdaeb7eed2086c52916c41e6311258ae3f2b0aec022d3892c23b7"
 metafile = true
 
 [[files]]
+file = "mods/inventory-particles.pw.toml"
+hash = "6e1fb393da8302b09c97bb278d8433a4da2403b32ba74e131b0ec86dfb2a809a"
+metafile = true
+
+[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
 metafile = true
@@ -291,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "23ae6070690635c357040e1361922474ca25a1b0cc621bd9204070ec6c74acaf"
+metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+hash = "867193e9fb0f977c6890b216d54612203972c10bbf4120c1e612447bbcb937a5"
 metafile = true
 
 [[files]]
