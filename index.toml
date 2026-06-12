@@ -62,11 +62,11 @@ hash = "561973321d8abb55bb8f10f12eef7850c590f773066fe9915505ee28581641eb"
 
 [[files]]
 file = "kubejs/data/simulated/end_sea/overworld.json"
-hash = "a885e553340f42fa5fdb04ca75a8e449a6aae3e684d752cd5700b07364243766"
+hash = "6310a694eb73b158398dd6d7690c69bce0c648d54c5853f59bae5b5876b71ed8"
 
 [[files]]
 file = "kubejs/data/simulated/end_sea/the_nether.json"
-hash = "6c6880db21f4f8850505669d02c8e85f05be9bd825f6e00bd6545f3de64fd2b9"
+hash = "73a5a62f32ead94621651f78a49bf73f91c74088ac0fdb07f638357fa5d75631"
 
 [[files]]
 file = "kubejs/server_scripts/accessoryRarity.js"
@@ -418,9 +418,8 @@ hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
-file = "moonlight-global-datapacks/diabolical-islands.pw.toml"
-hash = "bf1810365264f3528b064ee00855af9d9dbaae2e69d8453642d6ae186d901edc"
-metafile = true
+file = "moonlight-global-datapacks/Diabolical_Islands_Custom.zip"
+hash = "0a4e7ba78d4719b0ca8c3942ae71b38b3a5152ccc94256e4357621dca63174ac"
 
 [[files]]
 file = "moonlight-global-datapacks/nullscape.pw.toml"

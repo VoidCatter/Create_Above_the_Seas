@@ -1,7 +1,7 @@
 {
   "dimension": "minecraft:the_nether",
   "priority": 1,
-  "start_y": -48,
+  "start_y": -112,
   "depth_gradient": 1,
   "drag": 1
 }
