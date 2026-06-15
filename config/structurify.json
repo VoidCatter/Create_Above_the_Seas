@@ -1,28 +1,16 @@
 {
-  "config_version": "2.0.22",
-  "config_datetime": "2026-05-15_15-35-14",
+  "config_version": "2.0.25",
+  "config_datetime": "2026-06-14_12-43-05",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": false,
     "enable_global_spacing_and_separation_modifier": false,
     "global_spacing_and_separation_modifier": 1.0
   },
-  "structure_namespaces": [
-    {
-      "name": "formationsnether",
-      "is_disabled": false,
-      "override_global_flatness_check": false,
-      "enable_flatness_check": true,
-      "flatness_check_allow_non_solid_blocks": false
-    }
-  ],
+  "structure_namespaces": [],
   "structures": [
     {
       "name": "minecraft:bastion_remnant",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
       "terrain_adaptation": "beard_box",
       "override_global_flatness_check": false,
       "enable_flatness_check": true,
@@ -30,33 +18,28 @@
     },
     {
       "name": "minecraft:fortress",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "underground_decoration",
-      "terrain_adaptation": "none",
       "override_global_flatness_check": true,
       "enable_flatness_check": true,
       "flatness_check_allow_non_solid_blocks": true
     },
     {
       "name": "minecraft:ruined_portal_nether",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "none",
       "override_global_flatness_check": false,
       "enable_flatness_check": true,
       "flatness_check_allow_non_solid_blocks": false
     },
     {
       "name": "explorify:black_spiral",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "none",
+      "start_height": {
+        "min_inclusive": {
+          "absolute": 80
+        },
+        "max_inclusive": {
+          "absolute": 180
+        },
+        "type": "minecraft:uniform"
+      },
+      "project_start_to_heightmap": "WORLD_SURFACE",
       "override_global_flatness_check": false,
       "enable_flatness_check": true,
       "flatness_check_allow_non_solid_blocks": false
@@ -64,13 +47,51 @@
     {
       "name": "formationsnether:flaming_pillar",
       "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "none"
+      "override_global_flatness_check": true,
+      "enable_flatness_check": true,
+      "flatness_check_allow_non_solid_blocks": false
+    },
+    {
+      "name": "formationsnether:obsidian_pillar",
+      "override_global_flatness_check": true,
+      "enable_flatness_check": true,
+      "flatness_check_allow_non_solid_blocks": false
+    },
+    {
+      "name": "formationsnether:ore_shard",
+      "terrain_adaptation": "beard_box",
+      "override_global_flatness_check": true,
+      "enable_flatness_check": true,
+      "flatness_check_allow_non_solid_blocks": false
+    },
+    {
+      "name": "formationsnether:quartz_spikes",
+      "override_global_flatness_check": true,
+      "enable_flatness_check": true,
+      "flatness_check_allow_non_solid_blocks": false
+    },
+    {
+      "name": "formationsnether:sphere_cage",
+      "is_disabled": true
+    },
+    {
+      "name": "supplementaries:galleon",
+      "is_disabled": true
     }
   ],
   "structure_sets": [
+    {
+      "spacing": 4,
+      "separation": 1,
+      "name": "formationsnether:ore_shards",
+      "is_disabled": false,
+      "salt": 1483793176,
+      "frequency": 0.16900001,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "formationsnether:ore_shard": 1
+      }
+    },
     {
       "spacing": 22,
       "separation": 12,
@@ -83,5 +104,6 @@
         "nullscape:dragon_skeleton": 1
       }
     }
-  ]
+  ],
+  "structure_template_pools": []
 }

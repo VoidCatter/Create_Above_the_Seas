@@ -30,7 +30,7 @@ hash = "1f9ef7c974c6d97b5b79916eddcf3002318965068f58fdbdbce8ecf9c640abc4"
 
 [[files]]
 file = "config/structurify.json"
-hash = "7b78cb0c69fc92f3da91a3b0bf7a6f54867ad0b051d642dafe8930d5400fe9d6"
+hash = "1da607052186f9186a4d10e9a38bbbccbfe653109f2658387661dc7d7d08b915"
 
 [[files]]
 file = "kubejs/README.txt"
