@@ -419,7 +419,11 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/Diabolical_Islands_Custom.zip"
-hash = "15d9351b2cf44bdd95f26aea3a5fc09e6b57fb3d4a114a4a3ca6bce4652d1902"
+hash = "a6f67fc86acd0c1c8f00cedc8af6b51f3a91000f20682be1c276960bc1256bc0"
+
+[[files]]
+file = "moonlight-global-datapacks/Skylands_Over_The_Sea_Custom.zip"
+hash = "c1a06ba889ddceccd11e0bcf1e34ade153536fca7f3cc10af7dafa8ed678ec95"
 
 [[files]]
 file = "moonlight-global-datapacks/nullscape.pw.toml"
