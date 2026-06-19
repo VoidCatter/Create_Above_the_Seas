@@ -13,6 +13,14 @@ file = "config/create-client.toml"
 hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
 
 [[files]]
+file = "config/incontrol/spawn.json"
+hash = "cfb751fc10f679ae9afdb7607d6d592c93dfeb5141d25835f445e9755a3997dc"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "0410668f671f54f19e5650f204a9420738ca3312b7346762a11d33e33f3aecb0"
+
+[[files]]
 file = "config/inventory_particles.json5"
 hash = "8518309c72754aeb08af9093d742a855ba5eb4229a5dc112985295a236070186"
 
@@ -110,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
+metafile = true
+
+[[files]]
+file = "mods/bens-sharks.pw.toml"
+hash = "2380138869c88a71a98d712922f98d182780cfb48a8947b6dad4349928aa8991"
 metafile = true
 
 [[files]]
@@ -250,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "ec8432e5a8dcdaeb7eed2086c52916c41e6311258ae3f2b0aec022d3892c23b7"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "8e90c889394fe3e69d75a8aa8466b74af5ff8a26b755abf90b668dcc225b23d5"
 metafile = true
 
 [[files]]

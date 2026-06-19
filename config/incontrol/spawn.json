@@ -1,0 +1,24 @@
+[
+    {
+        "mob": "benssharks:bull_shark",
+        "minheight": 63,
+        "result": "deny"
+    },
+    {
+        "mod": "benssharks",
+        "when": "finalize",
+        "result": "default",
+        "angry": true,
+        "speedmultiply": 1.2,
+        "ai": {
+            "targets": [
+                {
+                    "priority": 1,
+                    "goal": "nearest_attackable_target",
+                    "mustsee": true,
+                    "mustreach": false
+                }
+            ]
+        }
+    }
+]

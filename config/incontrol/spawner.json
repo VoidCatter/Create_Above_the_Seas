@@ -1,0 +1,36 @@
+[
+    {
+      "mob": [
+        "benssharks:cookiecutter_shark",
+        "benssharks:whitetip_shark",
+        "minecraft:pufferfish",
+        "minecraft:drowned",
+        "endermanoverhaul:coral_enderman",
+        "benssharks:nurse_shark",
+        "benssharks:bull_shark",
+
+        "benssharks:krill",
+        "benssharks:barracuda",
+
+        "benssharks:greenland_shark",
+        "benssharks:tiger_shark",
+        "benssharks:greatwhiteshark"
+      ],
+      "persecond": 3,
+      "attempts": 50,
+      "amount": {
+        "minimum": 2,
+        "maximum": 4
+      },
+      "conditions": {
+        "dimension": "minecraft:overworld",
+        "inwater": true,
+        "norestrictions": true,
+        "minheight": -64,
+        "maxheight": 25,
+        "maxthis": 3,
+        "mindist": 24,
+        "maxdist": 120
+      }
+    }
+  ]
