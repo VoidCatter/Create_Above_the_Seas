@@ -14,11 +14,11 @@ hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "cfb751fc10f679ae9afdb7607d6d592c93dfeb5141d25835f445e9755a3997dc"
+hash = "1a50cbd08eaccd842987bdd9832027b926e07ac4dad3e1ad5508f8e5369529c7"
 
 [[files]]
 file = "config/incontrol/spawner.json"
-hash = "0410668f671f54f19e5650f204a9420738ca3312b7346762a11d33e33f3aecb0"
+hash = "8145c21b99a6e8c8073abcc832087b999f09a616ebed3ceb498d91cf3424044c"
 
 [[files]]
 file = "config/inventory_particles.json5"
@@ -77,28 +77,12 @@ file = "kubejs/data/simulated/end_sea/the_nether.json"
 hash = "73a5a62f32ead94621651f78a49bf73f91c74088ac0fdb07f638357fa5d75631"
 
 [[files]]
-file = "kubejs/server_scripts/accessoryRarity.js"
-hash = "043b15eaa9a35539086b98dda61850ed10ad75a924f9b56ccf9c846be13ff9eb"
-
-[[files]]
-file = "kubejs/server_scripts/accessoryTags.js"
-hash = "31649ff4ec6c079734e2d5eaa67beaf5d80a89087030ee4ffb65ed25d862f675"
-
-[[files]]
-file = "kubejs/server_scripts/noStarterItems.js"
-hash = "70f75a043944e478bc86088ae979065efc31ca32e155c15b26d89f5186ca50f5"
-
-[[files]]
 file = "kubejs/server_scripts/removeRecipes.js"
 hash = "1dcf9fd1413ce5b7c06badadb1be07cdfde06b240b67a7875c163479ab43dd82"
 
 [[files]]
 file = "kubejs/server_scripts/replaceElytra.js"
 hash = "ab68bf3397b8d769b350a086ce0f1660775acd423a8073e793b9e9c9d69dfec9"
-
-[[files]]
-file = "kubejs/startup_scripts/main.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -256,6 +240,11 @@ hash = "5ef9f8145b84ad59bc9cd7759d5a05bd0345a3266df8a290f2bdcbaaab18c6bb"
 metafile = true
 
 [[files]]
+file = "mods/fowlplay.pw.toml"
+hash = "4ae6cc2515ce0193ecf0f7e546f575f1e6261a33aa7e1049db68e70f557509d3"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
@@ -388,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
 metafile = true
 
 [[files]]

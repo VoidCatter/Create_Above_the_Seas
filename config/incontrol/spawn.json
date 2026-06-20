@@ -5,11 +5,24 @@
         "result": "deny"
     },
     {
-        "mod": "benssharks",
+        "mob": [
+            "benssharks:blacktip_reef_shark",
+            "benssharks:blue_shark",
+            "benssharks:bonnethead_shark",
+            "benssharks:bull_shark",
+            "benssharks:cookiecutter_shark",
+            "benssharks:greatwhiteshark",
+            "benssharks:greenland_shark",
+            "benssharks:lemon_shark",
+            "benssharks:mako_shark",
+            "benssharks:nurse_shark",
+            "benssharks:tiger_shark",
+            "benssharks:whitetip_shark"
+        ],
         "when": "finalize",
         "result": "default",
         "angry": true,
-        "speedmultiply": 1.2,
+        "speedmultiply": 1,
         "ai": {
             "targets": [
                 {

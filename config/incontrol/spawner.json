@@ -1,36 +1,75 @@
 [
-    {
-      "mob": [
-        "benssharks:cookiecutter_shark",
-        "benssharks:whitetip_shark",
-        "minecraft:pufferfish",
-        "minecraft:drowned",
-        "endermanoverhaul:coral_enderman",
-        "benssharks:nurse_shark",
-        "benssharks:bull_shark",
-
-        "benssharks:krill",
-        "benssharks:barracuda",
-
-        "benssharks:greenland_shark",
-        "benssharks:tiger_shark",
-        "benssharks:greatwhiteshark"
-      ],
-      "persecond": 3,
-      "attempts": 50,
-      "amount": {
-        "minimum": 2,
-        "maximum": 4
-      },
-      "conditions": {
-        "dimension": "minecraft:overworld",
-        "inwater": true,
-        "norestrictions": true,
-        "minheight": -64,
-        "maxheight": 25,
-        "maxthis": 3,
-        "mindist": 24,
-        "maxdist": 120
-      }
+  {
+    "mob": [
+      "benssharks:krill",
+      "benssharks:barracuda"
+    ],
+    "persecond": 3,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 10
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+      "norestrictions": true,
+      "minheight": -64,
+      "maxheight": 25,
+      "maxthis": 13,
+      "mindist": 24,
+      "maxdist": 96
     }
-  ]
+  },
+  {
+    "mob": [
+      "benssharks:nurse_shark",
+      "benssharks:bull_shark",
+      "benssharks:cookiecutter_shark",
+      "benssharks:whitetip_shark",
+      "minecraft:drowned",
+
+      "creeperoverhaul:ocean_creeper"
+    ],
+    "persecond": 3,
+    "attempts": 50,
+    "amount": {
+      "minimum": 3,
+      "maximum": 7
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+      "norestrictions": true,
+      "minheight": -64,
+      "maxheight": 25,
+      "maxthis": 7,
+      "mindist": 24,
+      "maxdist": 120
+    }
+  },
+  {
+    "mob": [
+      "endermanoverhaul:coral_enderman",
+      "benssharks:greenland_shark",
+      "benssharks:tiger_shark",
+      "benssharks:greatwhiteshark"
+    ],
+    "persecond": 1,
+    "attempts": 20,
+    "amount": {
+      "minimum": 2,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+      "norestrictions": true,
+      "minheight": -64,
+      "maxheight": 25,
+      "maxthis": 1,
+      "mindist": 24,
+      "maxdist": 48
+    }
+  }
+]
