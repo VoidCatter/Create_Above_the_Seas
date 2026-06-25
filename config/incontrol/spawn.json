@@ -33,5 +33,23 @@
                 }
             ]
         }
+    },
+    {
+        "hostile": true,
+        "block": "minecraft:grass_block",
+        "spawntype": ["natural", "chunk_generation", "jockey", "reinforcement"],
+        "mintime": 23460,
+        "maxtime": 23999,
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "hostile": true,
+        "block": "minecraft:grass_block",
+        "spawntype": ["natural", "chunk_generation", "jockey", "reinforcement"],
+        "mintime": 0,
+        "maxtime": 12542,
+        "when": "onjoin",
+        "result": "deny"
     }
 ]

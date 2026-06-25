@@ -14,7 +14,7 @@ hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "1a50cbd08eaccd842987bdd9832027b926e07ac4dad3e1ad5508f8e5369529c7"
+hash = "e8f267b1d37c25b6cd7259a93dde3357fa6242779309efadb1a7c04bee12fbfe"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -197,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+metafile = true
+
+[[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "4995541fb5da57ab155931be858b4c5073c9d9c8bd171e32e09d04fc336685df"
 metafile = true
 
 [[files]]
@@ -386,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-altitude.pw.toml"
-hash = "391c21bfb30f7ac7dd6eb0c178de326a890ad979195ad9a47a2bbdc542ef0c88"
+hash = "4ef8e684fa087815b7c876f7bf0c53f4129d2f46098ea93c6bebffdb1f01cbe9"
 metafile = true
 
 [[files]]
