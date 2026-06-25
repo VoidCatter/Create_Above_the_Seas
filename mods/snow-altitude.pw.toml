@@ -1,0 +1,13 @@
+name = "Snow Altitude"
+filename = "snowaltitude-0.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pxWFP0y9/versions/QTmEaspI/snowaltitude-0.0.1.jar"
+hash-format = "sha512"
+hash = "3bead63f127f154df6f97f2f4df5b0bab09d3f0bd4f49fa7d700a54fe7d6315ca0755e0c6e9c798467c0722b23311434cbffd017e18a9282fa6b8727d3a1f551"
+
+[update]
+[update.modrinth]
+mod-id = "pxWFP0y9"
+version = "QTmEaspI"

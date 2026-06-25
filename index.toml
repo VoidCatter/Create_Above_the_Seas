@@ -385,6 +385,11 @@ hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
 metafile = true
 
 [[files]]
+file = "mods/snow-altitude.pw.toml"
+hash = "391c21bfb30f7ac7dd6eb0c178de326a890ad979195ad9a47a2bbdc542ef0c88"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "96926b3c536668a886c6895565d8cbf06ec187c1efd4f0212ba12f8f97f7559e"
 metafile = true
@@ -445,7 +450,7 @@ hash = "a6f67fc86acd0c1c8f00cedc8af6b51f3a91000f20682be1c276960bc1256bc0"
 
 [[files]]
 file = "moonlight-global-datapacks/Skylands_Over_The_Sea_Custom.zip"
-hash = "f798e27137f7963617cad75cfe826172b92cbf5385cef2a813c596aa0f398cf2"
+hash = "9fa9284818a69a0e6e485bed67578457cbb637ad93a8e4b6d14f1ffc8ac9aefc"
 
 [[files]]
 file = "moonlight-global-datapacks/nullscape.pw.toml"
