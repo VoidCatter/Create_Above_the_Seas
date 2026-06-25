@@ -1,6 +1,6 @@
 name = "Spyglass Improvements"
 filename = "spyglass_improvements-1.5.7+mc1.21+neoforge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z6ykjRlM/versions/F2s6rUr5/spyglass_improvements-1.5.7%2Bmc1.21%2Bneoforge.jar"
