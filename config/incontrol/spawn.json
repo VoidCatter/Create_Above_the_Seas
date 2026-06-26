@@ -36,7 +36,7 @@
     },
     {
         "hostile": true,
-        "block": "minecraft:grass_block",
+        "block": ["minecraft:grass_block", "minecraft:podzol", "minecraft:dirt_path"],
         "spawntype": ["natural", "chunk_generation", "jockey", "reinforcement"],
         "mintime": 23460,
         "maxtime": 23999,
@@ -45,7 +45,7 @@
     },
     {
         "hostile": true,
-        "block": "minecraft:grass_block",
+        "block": ["minecraft:grass_block", "minecraft:podzol", "minecraft:dirt_path"],
         "spawntype": ["natural", "chunk_generation", "jockey", "reinforcement"],
         "mintime": 0,
         "maxtime": 12542,
