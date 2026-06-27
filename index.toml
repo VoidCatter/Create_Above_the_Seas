@@ -77,8 +77,12 @@ file = "kubejs/data/simulated/end_sea/the_nether.json"
 hash = "73a5a62f32ead94621651f78a49bf73f91c74088ac0fdb07f638357fa5d75631"
 
 [[files]]
+file = "kubejs/server_scripts/craftMagnetite.js"
+hash = "1fe22a9c602c49009cef6d66dcbafff5b62a1dfdf8a1d16cdca3d699dc80cb6c"
+
+[[files]]
 file = "kubejs/server_scripts/removeRecipes.js"
-hash = "1dcf9fd1413ce5b7c06badadb1be07cdfde06b240b67a7875c163479ab43dd82"
+hash = "d7581f80b0e835354c781fa34305ef588a419c6926e78e2c53b4ecff266f4583"
 
 [[files]]
 file = "kubejs/server_scripts/replaceElytra.js"
@@ -155,6 +159,11 @@ hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "2f02126de38cf2a656b7ae97aa1f6c1a153498f5cdb03fe197c291d9c43cbb5a"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
@@ -165,8 +174,18 @@ hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
+metafile = true
+
+[[files]]
 file = "mods/create-food.pw.toml"
 hash = "8fad30e9d26fed168e709656c58a6284105cb1b6aee4743fefad6566df965de5"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "39499039e11a6e0f50542d80af94c172342fdb686f3a59d5ee4457d978a54e75"
 metafile = true
 
 [[files]]
