@@ -18,7 +18,7 @@ hash = "7558d01d994ba0c4a7ea941e71b361fb58eae952ac440908576e395c1e6e9ed0"
 
 [[files]]
 file = "config/incontrol/spawner.json"
-hash = "8145c21b99a6e8c8073abcc832087b999f09a616ebed3ceb498d91cf3424044c"
+hash = "52a12990b08c0a28e72b8c70a2a297234fa4ce1e32b72e6da194128d3a084c83"
 
 [[files]]
 file = "config/inventory_particles.json5"

@@ -2,7 +2,7 @@
   {
     "mob": [
       "benssharks:krill",
-      "benssharks:barracuda"
+      "minecraft:salmon"
     ],
     "persecond": 3,
     "attempts": 50,
