@@ -73,6 +73,26 @@ file = "kubejs/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "561973321d8abb55bb8f10f12eef7850c590f773066fe9915505ee28581641eb"
 
 [[files]]
+file = "kubejs/data/create/recipe/crushing/gilded_blackstone.json"
+hash = "d79af7507a71c06c046e95c56ab974248646d996428173526c70aeb24e817df1"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/compacting/deepslate.json"
+hash = "7104e6c883c54468ea168e78f1d696a33b4565271713911673d28c0db19836ee"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/mixing/ancient_debris.json"
+hash = "2fffc043f2cf5f3c52d4f48b2c9cb8a0cfb127ab2054b01cb41845c8cffd6a72"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/mixing/gilded_blackstone.json"
+hash = "4715b032872a5116f8fab083d5e3c1ed199166eb940d106bf77191d32c0e6470"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/mixing/netherrack.json"
+hash = "4dd8cd15d15b7f1e24becb312cccc37bb5a439ac79b52d1ec34b5ff42d8e0128"
+
+[[files]]
 file = "kubejs/data/simulated/end_sea/overworld.json"
 hash = "6310a694eb73b158398dd6d7690c69bce0c648d54c5853f59bae5b5876b71ed8"
 
