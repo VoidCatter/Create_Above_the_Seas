@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    { "item": "minecraft:ancient_debris" },
+    { "item": "minecraft:gilded_blackstone" },
+    { "item": "minecraft:netherrack" },
+    { "item": "minecraft:basalt" },
+    { "type": "neoforge:single", "amount": 250, "fluid": "minecraft:lava" }
+  ],
+  "results": [
+    { "id": "minecraft:ancient_debris", "count": 1 },
+    { "id": "minecraft:ancient_debris", "count": 1, "chance": 0.05 }
+  ]
+}
